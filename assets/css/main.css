@@ -2133,8 +2133,10 @@ input, select, textarea {
 				color: inherit;
 			}
 
-	#contact footer {
+	#contact {
 		font-size: 0.9em;
+		text-align: left;
+		padding: 2em;
 	}
 
 /* Copyright */
