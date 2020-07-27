@@ -2139,6 +2139,10 @@ input, select, textarea {
 		padding: 2em;
 	}
 
+		#contact footer {
+			text-align: center;
+		}
+
 /* Copyright */
 
 	#copyright {
